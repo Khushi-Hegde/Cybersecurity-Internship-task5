@@ -68,3 +68,5 @@ Saved the capture as `capture_task5.pcap` using File → Save As in Wireshark.
 - The difference between TCP and UDP, HTTP and HTTPS
 - How DNS resolves domain names before a connection is made
 - How ICMPv6 is used for network diagnostics (ping)
+
+THE .pcap CAPTURE FILE EXCEEDED GITHUB'S 25MB LIMIT. PROTOCOL ANALYSIS IS DOCUMENTED IN THE REPORT WITH SUPPORTING SCREENSHOTS.
